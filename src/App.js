@@ -13,8 +13,8 @@ import SimpleForm from './SimpleForm';
 import ControlledForm from './ControllledForm';
 import UncontrolledForm from './UncontrolledForm';
 import MyComponent from './MyComponent';
-import Home from './Home';
-import About from './About';
+// import Home from './Home';
+// import About from './About';
 import MyRouter from './MyRouter';
 import  './Globals.css';
 import Api from './Api';
@@ -82,7 +82,7 @@ const handleClick = (buttonName) => {
   alert(`Button clicked: ${buttonName}`);
 }
 function App() {
-  const schoolName = "Friendly Neighborhood School";
+  // const schoolName = "Friendly Neighborhood School";
   const showMessage = () => {
     alert('Button clicked!');
   };

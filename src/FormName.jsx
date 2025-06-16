@@ -1,7 +1,7 @@
 import React , {useState } from 'react';
 
 const FormName = () => {
-    const [name, setName] = useState('');
+    // const [name, setName] = useState('');
      const [isOpen, setIsOpen] = useState(false);
     return (
     <div> 

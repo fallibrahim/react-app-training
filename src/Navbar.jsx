@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
-import image1 from './images/IMG_UNCHK.jpg';
-import image2 from './images/edit-etudiant.png';
-import image3 from './images/login.png';
+// import image1 from './images/IMG_UNCHK.jpg';
+// import image2 from './images/edit-etudiant.png';
+// import image3 from './images/login.png';
 import Slider from './Slider';
 const Navbar = () => {
     useEffect(() => {

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 const Message = () => {
-    const [message, setMessage] = useState("Hello, World!");
+    const [message] = useState("Hello, World!");
 
     useEffect(() => {
         console.log("Component has mounted");
